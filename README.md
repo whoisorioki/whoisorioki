@@ -3,7 +3,7 @@
 
 ## Skills
 
-- I code in in C and Python. Currently work in progress.
+- I code in C and Python. Currently work in progress.
 
 ## Education
 
