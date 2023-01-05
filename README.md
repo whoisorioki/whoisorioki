@@ -1,4 +1,4 @@
-# Welcome to my profile
+# WELCOME TO MY PROFILE
 - One's and zero's are my favorite!
 
 ## Skills
