@@ -9,4 +9,3 @@
 
 - MCS student in JKUAT
 - Cohort 10 in ALX SE
-- Doing CS50x of Havard University.
