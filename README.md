@@ -21,3 +21,8 @@
 
 - MCS student in JKUAT
 - Cohort 10 in ALX SE
+
+## Connect with me
+
+- - *Twitter* - [@whoisorioki](https://github.com/whoisorioki)
+- - *LinkedIn* - [@adrianorioki](https://www.linkedin.com/in/adrianorioki/)
