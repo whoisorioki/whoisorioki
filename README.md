@@ -1,9 +1,21 @@
 # WELCOME TO MY PROFILE
-- One's and zero's are my favorite!
 
-## Skills
+* Hello, I am Adrian. 
+* I am a work in progress towards Software Engineering & AI.
+* A good programming language is like any well-designed tool, it falls easily to the hand and feels good to use.
 
-- I code in C and Python. Currently work in progress
+## Passions
+
+- 1s & 0s
+- Nature
+- Music
+
+## Languages and technologies
+
+- C
+- Python
+- MySQL
+- ... 
 
 ## Education
 
