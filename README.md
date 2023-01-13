@@ -15,6 +15,7 @@
 - C
 - Python
 - MySQL
+- Arduino
 - ... 
 
 ## Education
