@@ -24,5 +24,5 @@
 
 ## Connect with me
 
-- - *Twitter* - [@whoisorioki](https://github.com/whoisorioki)
-- - *LinkedIn* - [@adrianorioki](https://www.linkedin.com/in/adrianorioki/)
+- *Twitter* - [@whoisorioki](https://twitter.com/whoisorioki)
+- *LinkedIn* - [@adrianorioki](https://www.linkedin.com/in/adrianorioki/)
