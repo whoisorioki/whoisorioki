@@ -2,7 +2,7 @@
 
 * Hello, I am Adrian. 
 * I am a work in progress towards Software Engineering & AI.
-* A good programming language is like any well-designed tool, it falls easily to the hand and feels good to use.
+* C language is like any well-designed tool, it falls easily to the hand and feels good to use.
 
 ## Passions
 
