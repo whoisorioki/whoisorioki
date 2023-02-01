@@ -20,8 +20,8 @@
 
 ## Education
 
-- MCS student in JKUAT
-- Cohort 10 in ALX SE
+- MCS student
+- ALX
 
 ## Connect with me
 
