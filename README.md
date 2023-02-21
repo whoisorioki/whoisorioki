@@ -23,6 +23,11 @@
 - MCS student
 - ALX
 
+## 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whoisorioki&show_icons=true&locale=en" alt="whoisorioki" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whoisorioki&" alt="whoisorioki" /></p>
+
 ## My Statistics:
 <table>
   <tr>
