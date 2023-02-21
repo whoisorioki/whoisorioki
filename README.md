@@ -23,20 +23,15 @@
 - MCS student
 - ALX
 
-## 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whoisorioki&show_icons=true&locale=en" alt="whoisorioki" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whoisorioki&" alt="whoisorioki" /></p>
-
 ## My Statistics:
 <table>
   <tr>
-  <a href="https://github.com/whoisorioki/whoidorioki" />
+  <a href="https://github.com/whoisorioki/whoisorioki" />
     <td>
-    <img width=400px align="left" src="https://github-readme-stats.vercel.app/api?username=whoisorioki&count_private=true&show_icons=true&theme=radical" />
+    <img width=400px align="left" src="https://github-readme-stats.vercel.app/api?username=whoisorioki&count_private=true&show_icons=true&theme=black" />
     </td>
     <td>
-    <img width=400px src="https://github-readme-streak-stats.herokuapp.com?user=whoisorioki&theme=radical" />
+    <img width=400px src="https://github-readme-streak-stats.herokuapp.com?user=whoisorioki&theme=black" />
     </td>
   </a>
   </tr>
