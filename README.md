@@ -23,7 +23,7 @@
 - MCS student
 - ALX
 
-## My Statistics:
+## My Statistics
 <table>
   <tr>
   <a href="https://github.com/whoisorioki/whoisorioki" />
