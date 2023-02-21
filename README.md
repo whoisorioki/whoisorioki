@@ -23,6 +23,20 @@
 - MCS student
 - ALX
 
+## My Statistics:
+<table>
+  <tr>
+  <a href="https://github.com/whoisorioki/whoidorioki" />
+    <td>
+    <img width=400px align="left" src="https://github-readme-stats.vercel.app/api?username=joykara&count_private=true&show_icons=true&theme=radical" />
+    </td>
+    <td>
+    <img width=400px src="https://github-readme-streak-stats.herokuapp.com?user=whoisorioki&theme=radical" />
+    </td>
+  </a>
+  </tr>
+</table>
+
 ## Connect with me
 
 - *Twitter* - [@whoisorioki](https://twitter.com/whoisorioki)
