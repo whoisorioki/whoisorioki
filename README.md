@@ -26,14 +26,7 @@
 ## My Statistics
 <table>
   <tr>
-  <a href="https://github.com/whoisorioki/whoisorioki" />
-    <td>
-    <img width=400px align="left" src="https://github-readme-stats.vercel.app/api?username=whoisorioki&count_private=true&show_icons=true&theme=dark" />
-    </td>
-    <td>
-    <img width=400px src="https://github-readme-streak-stats.herokuapp.com?user=whoisorioki&theme=dark" />
-    </td>
-  </a>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoisorioki&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   </tr>
 </table>
 
