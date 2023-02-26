@@ -16,6 +16,7 @@
 - Python
 - MySQL
 - Arduino
+- PowerBI
 - ... 
 
 ## Education
