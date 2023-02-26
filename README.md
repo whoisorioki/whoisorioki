@@ -24,6 +24,10 @@
 - MCS student
 - ALX
 
+## Statistics
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoisorioki&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Connect with me
 
 - *Twitter* - [@whoisorioki](https://twitter.com/whoisorioki)
