@@ -3,7 +3,6 @@
 * Hello, I am Adrian.
 * I am Software Engineer.
 * I am a work in progress towards ML & AI.
-* C language is like any well-designed tool, it falls easily to the hand and feels good to use.
 
 ## Passions
 
