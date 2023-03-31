@@ -9,11 +9,14 @@
 - Nature
 - Music
 
-## Languages and technologies
+## Languages, libraries, frameworks and technologies
 
-- C
 - Python
 - MySQL
+- C
+- Flask
+- Scikit-learn
+- RDkit
 - Arduino
 - PowerBI
 - ... 
@@ -21,7 +24,6 @@
 ## Education
 
 - MCS student
-- ALX
 
 ## Statistics
 
