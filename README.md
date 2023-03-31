@@ -1,8 +1,7 @@
 # WELCOME TO MY PROFILE
 
 * Hello, I am Adrian.
-* I am Software Engineer.
-* I am a work in progress towards ML & AI.
+* Work in progress towards ML & AI.
 
 ## Passions
 
